@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: peachpuff;
+}
+
+header{
+	margin-left: 550px;
+}
+
+#logo{
+	width:100px;
+	height: auto;
+}
+
+nav{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: burlywood;
+}
+
+a{
+	text-decoration: none;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-left: 50px;
+	padding-left: 70px;
+	font-size: 16px;
+}
+
+a:link{
+	color: sienna;
+}
+
+a:hover{
+	font-weight: bold;
+	color:peru;
+}
+
+a:visited{
+	color:saddlebrown;
+}
+
+section{
+	background-color:sienna;
+	overflow: auto;
+}
+
+footer{
+	text-align: center;
+	font-size: 14px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: burlywood;
+}
+
+#ftext{
+	color: sienna;
+}
+
+h1{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-style: italic;
+	font-weight: bold;
+	color: sienna;
+}
+
+h2{
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: bolder;
+	color:burlywood;
+}
+
+p{
+	font-size: 18px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: bold;
+	color:burlywood;
+}
+
+.index{
+	width: 600px;
+	height:auto;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+}
+
+.first{
+	width: 600px;
+	height:auto;
+	margin: 10px;
+	padding: 10px;
+	float:left;
+}
+
+.about{
+	margin-top: 80px;
+}
+
+.gal{
+	width: 550px;
+	height: auto;
+	margin-right: 37px;
+	margin-left: 37px;
+	padding: 20px;
+}
+
+.puna{
+	width: 600px;
+	height: auto;
+	float: left;
+	margin: 15px;
+	padding: 15px;
+}
+
+#map{
+	width: 400px;
+	height: auto;
+	margin-left: 120px;
+}
+
+#ptext{
+	margin-top: 100px;
+}
+
+.festive{
+	width: 600px;
+	height: auto;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+}
+
+.festival{
+	margin-top: 40px;
+	margin-left: 10px;
+}
+
+#poster{
+	width: 400px;
+	height: auto;
+	margin-left: 180px;
+}
+
+table{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 500px;
+}
+
+th{
+	background-color:blanchedalmond;
+	margin: 20px;
+	padding: 20px;
+	border: thin black solid;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	font-weight: bolder;
+	color:sienna;
+}
+
+td{
+	background-color:beige;
+	margin: 20px;
+	padding: 20px;
+	border: thin black solid;
+	font-size: 14px;
+	font-weight: bold;
+	color:peru;
+}
+
+label{
+	font-size: 16px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: bold;
+	color:peru;
+}
+
+.wrapper{
+	margin-left: 500px;
+	margin-top:20px;
+	padding: 15px;
+}
+
+.form-group{
+	margin-top:20px;
+	padding: 15px;
+}
+
+.page-header{
+	text-align: center;
+	padding: 15px;
+}
+
+.btn{
+	margin-left: 50px;
+	padding-left: 150px;
+}
+
+.add{
+	margin-left: 550px;
+	padding: 10px;
+}
+
+.acc{
+	margin-left: 450px;
+}
+
+.headings{
+	margin-top: 40px;
+	margin-left: -50px;
+}
+
+#add{
+	margin-left: 550px;
+}
