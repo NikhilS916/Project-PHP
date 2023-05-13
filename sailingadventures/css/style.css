@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: steelblue;
+	overflow: auto;
+}
+
+header{
+	margin-left: 480px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: aliceblue;
+}
+
+#logo{
+	width: 70px;
+	height: auto;
+}
+
+nav{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: ivory;
+}
+
+a{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.first{
+	margin-left: 400px;
+}
+
+.second{
+	margin-left: 175px;
+	
+}
+
+a:link{
+	color: lightsteelblue;
+}
+
+a:hover{
+	color: skyblue;
+	font-weight: bolder;
+}
+
+a:visited{
+	color: skyblue;
+}
+
+h2{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: blanchedalmond;
+	text-align: center;
+}
+
+p{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:azure;
+	text-align: center;
+}
+
+footer{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color: ivory;
+	color: skyblue;
+	text-align: center;
+}
+
+label{
+	font-size: 16px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: bisque;
+}
+
+.wrapper{
+	margin-left: 560px;
+	margin-top:20px;
+	padding: 15px;
+}
+
+
+.form-group{
+	margin-top:20px;
+	padding: 15px;
+}
+
+.btn{
+	margin-left: 20px;
+}
+
+.logre{
+	margin-left: -565px;
+}
+
+.welcome{
+	margin-left: 20px;
+	padding: 30px;
+}
+
+#wel{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: blanchedalmond;
+	text-align: center;
+	padding: 30px;
+}
+
+table{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 500px;
+}
+
+th{
+	background-color: mintcream;
+	margin: 20px;
+	padding: 20px;
+	border: thin azure solid;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	font-weight: bolder;
+	color:lightsteelblue;
+}
+
+td{
+	background-color: floralwhite;
+	margin: 20px;
+	padding: 20px;
+	border: thin azure solid;
+	font-size: 14px;
+	font-weight: bold;
+	color: skyblue;
+}
+
+#tripbtn{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 615px;
+}
+
+#frm{
+	padding: 30px;
+}
+
+.record{
+	margin-left: 585px;
+}
+
+#add{
+	margin-left: 850px;
+}
+
+.galleryimg{
+	width:400px;
+	height:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 150px;
+	padding: 20px;
+	border: thin azure solid;
+}
+
+#upimg{
+	margin-left: 620px;
+}
+
+.up{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: azure;
+	text-align: left;
+}
+
+.pack{
+	color: steelblue;
+}
+
+
